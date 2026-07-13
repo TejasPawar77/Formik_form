@@ -423,12 +423,3 @@ function SignupForm() {
 # 🏁 Final Thoughts
 
 Formik + Yup is one of the **cleanest ways to handle forms in React**.
-
-Once you understand:
-
-* `values`
-* `errors`
-* `touched`
-* `handleChange`
-
-👉 You’re already ahead of most beginners.
